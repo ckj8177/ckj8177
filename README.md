@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://img.shields.io/twitter/url?label=twtter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmasyumaro_navi"> <img src="https://img.shields.io/github/followers/masyumaro-navi?style=social">
+<!-- 
+<img src="https://img.shields.io/twitter/url?label=twtter&style=social&url=https%3A%2F%2Ftwitter.com%2Fmasyumaro_navi"> <img src="https://img.shields.io/github/followers/masyumaro-navi?style=social"> -->
