@@ -28,6 +28,11 @@
 * Javascript
   * NodeJS
   * Deno
+* SQL
+  * MySQL
+  * PostgreSQL
+  * Sqlite
+  * MongoDB
 * Kotlin （齧っただけ）
 * Go （齧っただけ）
 
