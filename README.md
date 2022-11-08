@@ -1,4 +1,49 @@
-### Hi there 👋
+### 自己紹介
+
+フロント、サーバー、インフラ、アプリなど分野を問わず色々やってますー😄
+
+最近はAlibaba触ってますが色々とバグが多いので結構ストレス受けてます😇
+
+### フロント経験
+
+* React
+  * NuxtJS
+* Vue
+* Anguler
+* Flutter (Dart)
+
+### サーバーサイド経験
+
+* PHP
+  * CakePHP
+  * Laravel
+* Python
+  * Django
+  * Flask
+* C
+* C++
+* Java
+  * Spring
+* Shell
+* Javascript
+  * NodeJS
+  * Deno
+* Kotlin （齧っただけ）
+* Go （齧っただけ）
+
+### インフラ関連
+
+* AWS全般
+* GCP全般
+* Azureちょびっと
+* Alibaba全般？
+
+### やりたい言語
+
+* Go
+* Rust
+
+
 
 <!--
 **masyumaro-navi/masyumaro-navi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
